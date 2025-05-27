@@ -1,0 +1,19 @@
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\bin\Debug\URNA ELETRONICA.exe.config
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\bin\Debug\URNA ELETRONICA.exe
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\bin\Debug\URNA ELETRONICA.pdb
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA ELETRONICA.csproj.AssemblyReference.cache
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA_ELETRONICA.Form1.resources
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA_ELETRONICA.Properties.Resources.resources
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA ELETRONICA.csproj.GenerateResource.cache
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA ELETRONICA.csproj.CoreCompileInputs.cache
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA ELETRONICA.exe
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA ELETRONICA.pdb
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\bin\Debug\imagem\bolsonaro.jpeg
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\bin\Debug\imagem\ciro.jpeg
+C:\Users\WEDER COMPUTER\source\repos\URNA ELETRONICA\URNA ELETRONICA\bin\Debug\imagem\lula.jpeg
+C:\Users\Vinic\Downloads\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA ELETRONICA.csproj.AssemblyReference.cache
+C:\Users\Vinic\Downloads\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA ELETRONICA.exe.config
+C:\Users\Vinic\Downloads\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA_ELETRONICA.Form1.resources
+C:\Users\Vinic\Downloads\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA ELETRONICA.csproj.GenerateResource.cache
+C:\Users\Vinic\Downloads\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA ELETRONICA.exe
+C:\Users\Vinic\Downloads\URNA ELETRONICA\URNA ELETRONICA\obj\Debug\URNA ELETRONICA.pdb
